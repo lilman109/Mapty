@@ -1,0 +1,10 @@
+{
+  "name": "Mapty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lilman109 <akira.yoshidasjsu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
